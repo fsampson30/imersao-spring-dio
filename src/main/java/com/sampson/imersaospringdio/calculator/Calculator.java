@@ -1,4 +1,4 @@
-package com.sampson.imersaospringdio;
+package com.sampson.imersaospringdio.calculator;
 
 import org.springframework.stereotype.Component;
 

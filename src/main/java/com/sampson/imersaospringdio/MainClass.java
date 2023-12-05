@@ -1,5 +1,6 @@
 package com.sampson.imersaospringdio;
 
+import com.sampson.imersaospringdio.calculator.Calculator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
